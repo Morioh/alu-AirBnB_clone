@@ -163,4 +163,4 @@ Usage <class name>.count()
 Authors
 
 Onyonyi Maurice <m.onyonyi@alustudent.com>
-Flore Nanga Fobuzie Obedine <@alustudent.com>
+Flore Nanga Fobuzie Obedine <obedine@alustudent.com>
